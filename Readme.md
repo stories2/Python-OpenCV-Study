@@ -5,6 +5,9 @@ ipython을 이용하여 영상처리에 대해 이해를 한다
 작업환경 꾸리기 튜토리얼
 - http://seeb0h.github.io/howto/howto-install-homebrew-python-opencv-osx-el-capitan/
 
+## 20170101
+>이미지 사이즈 조절 예제 구현
+
 ## 20161231-3
 >이미지에 그림 그리기예제 구현
 
