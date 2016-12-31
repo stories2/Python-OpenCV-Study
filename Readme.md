@@ -5,6 +5,9 @@ ipython을 이용하여 영상처리에 대해 이해를 한다
 작업환경 꾸리기 튜토리얼
 - http://seeb0h.github.io/howto/howto-install-homebrew-python-opencv-osx-el-capitan/
 
+## 20161231-2
+>비디오 재생예제 구현
+
 ## 20161231-1
 >opencv를 이용하여 영상의 색깔을 변형시키는 예제를 출력하였다
 
