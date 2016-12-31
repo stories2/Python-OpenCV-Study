@@ -1,4 +1,4 @@
-# penCV 공부 
+# OpenCV 공부 
 
 ipython을 이용하여 영상처리에 대해 이해를 한다
 
