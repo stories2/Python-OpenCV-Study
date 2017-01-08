@@ -5,6 +5,9 @@ ipython을 이용하여 영상처리에 대해 이해를 한다
 작업환경 꾸리기 튜토리얼
 - http://seeb0h.github.io/howto/howto-install-homebrew-python-opencv-osx-el-capitan/
 
+python opencv 튜토리얼
+- http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+
 ## 20170109
 >영상에서 원 추출 실습
 
