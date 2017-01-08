@@ -5,6 +5,9 @@ ipython을 이용하여 영상처리에 대해 이해를 한다
 작업환경 꾸리기 튜토리얼
 - http://seeb0h.github.io/howto/howto-install-homebrew-python-opencv-osx-el-capitan/
 
+## 20170108
+>체스판에서 라인 검출
+
 ## 20170102-1
 >배경 이미지에서 목표 이미지를 여러개 디텍팅 하는 예제를 구현
 
